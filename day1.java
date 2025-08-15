@@ -1,5 +1,3 @@
-
-
 class sort0s1s2s {
     public static void sort(int arr[],int n){
         int low=0;
